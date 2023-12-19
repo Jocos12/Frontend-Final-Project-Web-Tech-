@@ -1,6 +1,7 @@
 My Project is about Online Exam Management System 
 -----------------------------------------------------
-I using spring Boot like backend and react like frontend ,to access the application, visit [localhost 3000] and log in using the provided credentials or complete the registration process.
+
+"I am using Spring Boot for the backend and React for the frontend",to access the application, visit [localhost 3000] and log in using the provided credentials or complete the registration process.
 
 Upon logging in, users will be greeted by a comprehensive dashboard displaying key information such as upcoming exams, recent results, and important announcements.
 
