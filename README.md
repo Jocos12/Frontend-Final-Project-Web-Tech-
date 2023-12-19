@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+My Project is about Online Exam Management System 
+-----------------------------------------------------
+I using spring Boot like backend and react like frontend ,to access the application, visit [localhost 3000] and log in using the provided credentials or complete the registration process.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Upon logging in, users will be greeted by a comprehensive dashboard displaying key information such as upcoming exams, recent results, and important announcements.
 
-## Available Scripts
+When ready to take an exam, simply navigate to the "Exams" section, choose the relevant quiz, and follow the on-screen instructions for answering questions. Remember to save or submit responses as guided by the system.
 
-In the project directory, you can run:
+To review completed exams, visit the "Results" section where detailed information, including scores and feedback, can be accessed.
 
-### `npm start`
+Manage your profile effectively by updating personal information, including password changes, in the dedicated "Profile" or "Account" section.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Explore exams organized by subject or topic effortlessly in the "Categories" section, allowing you to choose from a selection of available quizzes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Stay informed about important events such as upcoming exams, announcements, and result notifications through the system's notification feature.
 
-### `npm test`
+User roles, such as student, instructor, or administrator, come with varying permissions. Access role-specific features based on your assigned privileges.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+For additional assistance or information, find detailed guides or FAQs in the "Help" or "Support" section. If further help is needed, reach out to support through the provided contact details.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Always remember to log out after completing tasks by using the "Logout" button located in the top-right corner.
